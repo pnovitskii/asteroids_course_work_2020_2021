@@ -1,0 +1,85 @@
+﻿  Asteroids.cpp
+c:\users\pavel\source\repos\asteroids\collision.h(67): warning C4244: инициализация: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\pavel\source\repos\asteroids\collision.h(68): warning C4244: инициализация: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\pavel\source\repos\asteroids\collision.h(70): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\pavel\source\repos\asteroids\collision.h(71): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\pavel\source\repos\asteroids\collision.h(133): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\users\pavel\source\repos\asteroids\collision.h(134): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\users\pavel\source\repos\asteroids\collision.h(135): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\users\pavel\source\repos\asteroids\asteroids.cpp(68): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\pavel\source\repos\asteroids\asteroids.cpp(69): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\pavel\source\repos\asteroids\asteroids.cpp(72): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\pavel\source\repos\asteroids\asteroids.cpp(73): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\pavel\source\repos\asteroids\asteroids.cpp(76): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\pavel\source\repos\asteroids\asteroids.cpp(77): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\pavel\source\repos\asteroids\asteroids.cpp(80): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\pavel\source\repos\asteroids\asteroids.cpp(81): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\pavel\source\repos\asteroids\asteroids.cpp(155): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\pavel\source\repos\asteroids\asteroids.cpp(156): warning C4244: -=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\pavel\source\repos\asteroids\asteroids.cpp(202): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\pavel\source\repos\asteroids\asteroids.cpp(236): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+c:\users\pavel\source\repos\asteroids\asteroids.cpp(246): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+c:\users\pavel\source\repos\asteroids\asteroids.cpp(282): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\pavel\source\repos\asteroids\asteroids.cpp(283): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\pavel\source\repos\asteroids\asteroids.cpp(307): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+c:\users\pavel\source\repos\asteroids\asteroids.cpp(319): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+c:\users\pavel\source\repos\asteroids\asteroids.cpp(328): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+c:\users\pavel\source\repos\asteroids\asteroids.cpp(338): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+c:\users\pavel\source\repos\asteroids\asteroids.cpp(361): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+c:\users\pavel\source\repos\asteroids\asteroids.cpp(374): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+c:\users\pavel\source\repos\asteroids\asteroids.cpp(406): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\pavel\source\repos\asteroids\asteroids.cpp(415): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+c:\users\pavel\source\repos\asteroids\asteroids.cpp(450): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+c:\users\pavel\source\repos\asteroids\asteroids.cpp(483): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\pavel\source\repos\asteroids\asteroids.cpp(490): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\pavel\source\repos\asteroids\asteroids.cpp(493): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\pavel\source\repos\asteroids\asteroids.cpp(498): warning C4010: однострочный комментарий содержит знак объединения строк
+c:\users\pavel\source\repos\asteroids\asteroids.cpp(503): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\pavel\source\repos\asteroids\asteroids.cpp(518): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\pavel\source\repos\asteroids\asteroids.cpp(523): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\pavel\source\repos\asteroids\asteroids.cpp(530): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+c:\users\pavel\source\repos\asteroids\asteroids.cpp(547): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+c:\users\pavel\source\repos\asteroids\asteroids.cpp(569): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+c:\users\pavel\source\repos\asteroids\asteroids.cpp(578): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\pavel\source\repos\asteroids\asteroids.cpp(579): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\pavel\source\repos\asteroids\asteroids.cpp(595): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\pavel\source\repos\asteroids\asteroids.cpp(606): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\pavel\source\repos\asteroids\asteroids.cpp(607): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\pavel\source\repos\asteroids\asteroids.cpp(622): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\pavel\source\repos\asteroids\asteroids.cpp(633): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\pavel\source\repos\asteroids\asteroids.cpp(672): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\pavel\source\repos\asteroids\asteroids.cpp(675): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\pavel\source\repos\asteroids\asteroids.cpp(678): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\pavel\source\repos\asteroids\asteroids.cpp(680): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\pavel\source\repos\asteroids\asteroids.cpp(699): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\pavel\source\repos\asteroids\asteroids.cpp(703): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\pavel\source\repos\asteroids\asteroids.cpp(706): warning C4018: <: несоответствие типов со знаком и без знака
+  Asteroids.vcxproj -> C:\Users\Pavel\source\repos\Asteroids\Debug\Asteroids.exe
